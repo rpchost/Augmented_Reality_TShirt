@@ -1,0 +1,13 @@
+# Blender MTL File: 'skirt1.blend'
+# Material Count: 1
+
+newmtl Tex_0117_0.dds_shirt1.png.002
+Ns 92.156863
+Ka 0.000000 0.000000 0.000000
+Kd 0.058569 0.224101 0.640000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd C:\Users\joseph.chalhoub\Downloads\PC Computer - Dead Rising 2 - Chuck Greene Polo Shirt With Blue Jeans\Chuck Greene\Textures\shirt1.png

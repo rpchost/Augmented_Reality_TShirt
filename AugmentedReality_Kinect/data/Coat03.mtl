@@ -1,0 +1,13 @@
+# Max2Mtl Version 4.0 Mar 10th, 2001
+#
+newmtl Coat
+Ka  0.0 0.0 0.0
+Kd  0.7 0.6 0.5
+Ks  0.0 0.0 0.0
+d  1.0
+Ns  10.0
+illum 2
+map_Kd Coat_03C.jpg
+bump Coat_03B.jpg
+#
+# EOF
